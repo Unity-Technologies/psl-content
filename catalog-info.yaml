@@ -1,0 +1,16 @@
+# For more information about the available options please visit: http://go/backstage (VPN required)
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  annotations:
+    github.com/project-slug: Unity-Technologies/psl-content
+  name: psl-content
+  description: "A collection of sample content for the PolySpatial team."
+  labels:
+    costcenter: "5066"
+  tags:
+    - planned-public
+spec:
+  type: unity-package
+  lifecycle: experimental
+  owner: unity-technologies/xr

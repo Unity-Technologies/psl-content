@@ -1,14 +1,14 @@
 {
-  "name": "com.unity.psl-content.balloon-gallery",
+  "name": "com.unity.psl-content.project-launcher",
   "version": "1.0.0",
-  "displayName": "Unity PolySpatial Simple Samples - Balloon Gallery",
+  "displayName": "Unity PolySpatial Simple Samples - Project Launcher",
   "description": "A sample scene for showcasing PolySpatial features.",
   "unity": "2023.3",
   "unityRelease": "5f1",
   "samples": [
     {
-      "displayName": "Unity PolySpatial Simple Samples - Balloon Gallery",
-      "description": "The content associated with the Balloon Gallery simple sample.  This is installed into the project folder.",
+      "displayName": "Unity PolySpatial Simple Samples - Project Launcher",
+      "description": "The content associated with the Project Launcher simple sample.  This is installed into the project folder.",
       "path": "UnityPackage~/",
       "interactiveImport": true
     }

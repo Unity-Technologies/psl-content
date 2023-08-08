@@ -1,4 +1,4 @@
-# Unity PolySpatial Simple Samples - Balloon Gallery
+# Unity PolySpatial Simple Samples - Meshing
 
 A scene with example content that works with PolySpatial
 
